@@ -1,2 +1,2 @@
 # PFUEL
-Repositório para atividades, exemplos e projeto da disciplina de Programação Funcional Eletiva
+Repositório para atividades, exemplos e projeto de EDA(Exploratory Data Analysis) da disciplina de Programação Funcional Eletiva
